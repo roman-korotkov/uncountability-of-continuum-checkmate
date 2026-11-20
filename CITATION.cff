@@ -29,7 +29,7 @@ keywords:
 license: CC-BY-4.0
 version: "0.9.0"
 date-released: "2026-11-20"
-doi: 10.5281/zenodo.XXXXXXX
+doi: 10.5281/zenodo.24390197
 repository-code: "https://github.com/roman-korotkov/uncountability-of-continuum-another-check"
 languages:
   - ru
@@ -43,7 +43,7 @@ preferred-citation:
   version: "0.9.0"
   date-released: "2026-11-20"
   year: 2026
-  doi: 10.5281/zenodo.XXXXXXX
+  doi: 10.5281/zenodo.24390197
   languages:
   - ru
   notes: "Preprint"
