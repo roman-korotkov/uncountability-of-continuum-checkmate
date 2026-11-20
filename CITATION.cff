@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: "If you use or reference this paper, please cite it using the metadata from this file."
+title: "Uncountability of continuum, checkmate"
+type: software
+authors:
+  - family-names: "Korotkov"
+    given-names: "Roman"
+    orcid: "https://orcid.org/0009-0003-3813-3116"
+abstract: >-
+  This paper continues the investigation, begun in previous articles of the series, into the limits of applicability of diagonal arguments in set theory. The central thesis is that Cantor's theorem on the uncountability of the power set, in its modern formulation and interpretation, depends on a number of implicit methodological assumptions and does not determine the structure of infinity. The author distinguishes between strong and weak interpretations of one-to-one correspondence (bijection versus element-by-element matching) and identifies three algebraic structures of infinite objects: internal (cardinal), hybrid (ordinal), and external. It is shown that each of these requires its own balance of predicativity and impredicativity, and that conflating these structures under a single notion of bijection leads to a loss of ontological support for operations (in particular, Cantor's distinction between left and right addition and multiplication). Based on an analysis of transfinite recursion and limit ordinals, an interpretation of limit ordinals as points of discontinuity of predicative description is formulated. The close connection between Russell's paradox and Cantor's theorem is demonstrated, indicating a single structural conflict underlying both constructions. The phenomenon of undefinable objects, the role of impredicativity in closing algebraic structures, and connections with nonstandard analysis, surreal numbers, and gross objects are discussed. The work offers a reconsideration of the relationship between Cantor's constructions and the modern interpretation of set theory, pointing to architectural limitations of the ZFC and NBG axiomatic systems.
+keywords:
+  - "set theory"
+  - "Cantor's theorem"
+  - "diagonal argument"
+  - "potential and actual infinity"
+  - "predicativity and impredicativity"
+  - "ordinal types"
+  - "cardinal numbers"
+  - "axiom of regularity"
+  - "transfinite recursion"
+  - "Russell's paradox"
+  - "undefinable objects"
+  - "one-to-one correspondence"
+  - "bijection"
+  - "nonstandard analysis"
+  - "surreal numbers"
+  - "gross objects"
+  - "foundations of mathematics"
+license: CC-BY-4.0
+version: "0.9.0"
+date-released: "2026-11-20"
+doi: 10.5281/zenodo.XXXXXXX
+repository-code: "https://github.com/roman-korotkov/uncountability-of-continuum-another-check"
+languages:
+  - ru
+preferred-citation:
+  type: article
+  title: "Несчётность множества континуум, шах и мат"
+  orcid: "https://orcid.org/0009-0003-3813-3116"
+  authors:
+    - family-names: "Korotkov"
+      given-names: "Roman"
+  version: "0.9.0"
+  date-released: "2026-11-20"
+  year: 2026
+  doi: 10.5281/zenodo.XXXXXXX
+  languages:
+  - ru
+  notes: "Preprint"
