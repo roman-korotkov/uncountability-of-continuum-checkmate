@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use or reference this paper, please cite it using the metadata from this file."
 title: "Uncountability of continuum, checkmate"
-type: software
+type: preprint
 authors:
   - family-names: "Korotkov"
     given-names: "Roman"
